@@ -49,17 +49,20 @@ React: <br />
 <a href="">link 2</a> <br />
 <a href="">link 3</a> <br />
 
-<img src="https://hackernoon.com/hn-images/1*y6C4nSvy2Woe0m7bWEn4BA.png"
-     alt="React icon"
-     height="70" width="140" />
+<p float="left">
+     <img src="http://www.jsweet.org/wp-content/uploads/2016/04/react-logo-300x289.png"
+          alt="React icon"
+          height="200" width="200" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+          alt="JS icon"
+          height="200" width="200" />
+     <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png"
+          alt="HTML5 icon"
+          height="200" width="200" />
+</p>
 
-<img src="https://cdn.imgbin.com/1/19/8/imgbin-javascript-logo-html-comment-blog-others-rYkexXzhunDcAfiR8EJUGRYh9.jpg"
-     alt="JS icon"
-     height="110" width="110" />
 
-<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png"
-     alt="HTML5 icon"
-     height="110" width="110" />
+
 
 # Other Topics
 
