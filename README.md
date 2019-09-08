@@ -33,18 +33,18 @@ Intermediate:   <a href="README.md">Taking a Website and Building it from Scratc
 Advanced: <a href="README.md">Building a React Single-Page App (SPAs)</a>
 
 # Technologies and Resources
-HTML/CSS:
+HTML/CSS: <br />
 <a href="">link 1</a> <br />
 <a href="">link 2</a> <br />
 <a href="">link 3</a> <br />
 
 
-JavaScript:
+JavaScript: <br />
 <a href="">link 1</a> <br />
 <a href="">link 2</a> <br />
 <a href="">link 3</a> <br />
 
-React:
+React: <br />
 <a href="">link 1</a> <br />
 <a href="">link 2</a> <br />
 <a href="">link 3</a> <br />
@@ -64,13 +64,13 @@ React:
 # Other Topics
 
 Web development is a broad enough topic to host multiple workshops on. While we've done our best to compile a lot of information into our workshop, we tried to keep it manageable and easy to follow. Unfortunately, this means leaving out
-topics that we would've liked to incorporate. Although we won't be looking at these topics today, we've included relevant links to them for those interested.
+topics that we would've liked to incorporate. Although we won't be looking at these topics today, we've included relevant links to them for those interested. <br />
 
-<LIST TOPICS AND RESOURCES HERE>
-Apache Server
-Node.js/back-end
-Localhost
-??
+<LIST TOPICS AND RESOURCES HERE> <br />
+Apache Server  <br />
+Node.js/back-end <br />
+Localhost <br />
+?? <br />
 
 
 # Sections
