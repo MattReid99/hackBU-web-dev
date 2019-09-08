@@ -19,10 +19,8 @@ For those who may already feel comfortable building static webpages with HTML/CS
 Vanilla JavaScript (native, standards-based) is a really powerful language for DOM manipulation. While HTML and CSS are useful for
 designing static web-pages, JavaScript is integral for making those sites interactive. This includes tasks like manipulating text dynamically
 , listening to events, adding functionality to buttons, and data persistence. We've also linked to some resources on the document object model, and its relevance.  
-
 <br />
 Lastly, we have a React workshop for those experienced with the aforementioned topics. React is a JavaScript library for building user interfaces. However, this label is a bit reductionist. React has a ton of its own libraries and packages, each of which alter its capabilities significantly. Inevitably, we won't be able to touch upon all of the libraries we'd like to given our time constraints, but I'd implore you to look more into React with the resources below, or contained on the React page itself, it's quite thorough and well-written.
-
 
 # Today's Projects
 
@@ -36,40 +34,43 @@ Advanced: <a href="README.md">Building a React Single-Page App (SPAs)</a>
 
 # Technologies and Resources
 HTML/CSS:
-<a href="https://swifteducation.github.io/teaching_app_development_with_swift/">Apple Tutorial</a> <br />
-<a href="https://www.hackingwithswift.com/read/0/overview">Hacking with Swift</a> <br />
-<a href="https://www.codeconquest.com/tutorials/swift/">Code Conquest</a> <br />
+<a href="">link 1</a> <br />
+<a href="">link 2</a> <br />
+<a href="">link 3</a> <br />
 
 
 JavaScript:
-<a href="https://swifteducation.github.io/teaching_app_development_with_swift/">Apple Tutorial</a> <br />
-<a href="https://www.hackingwithswift.com/read/0/overview">Hacking with Swift</a> <br />
-<a href="https://www.codeconquest.com/tutorials/swift/">Code Conquest</a> <br />
-
+<a href="">link 1</a> <br />
+<a href="">link 2</a> <br />
+<a href="">link 3</a> <br />
 
 React:
-<a href="https://swifteducation.github.io/teaching_app_development_with_swift/">Apple Tutorial</a> <br />
-<a href="https://www.hackingwithswift.com/read/0/overview">Hacking with Swift</a> <br />
-<a href="https://www.codeconquest.com/tutorials/swift/">Code Conquest</a> <br />
+<a href="">link 1</a> <br />
+<a href="">link 2</a> <br />
+<a href="">link 3</a> <br />
 
+<img src="https://hackernoon.com/hn-images/1*y6C4nSvy2Woe0m7bWEn4BA.png"
+     alt="React icon"
+     height="70" width="140" />
+
+<img src="https://cdn.imgbin.com/1/19/8/imgbin-javascript-logo-html-comment-blog-others-rYkexXzhunDcAfiR8EJUGRYh9.jpg"
+     alt="JS icon"
+     height="110" width="110" />
+
+<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png"
+     alt="HTML5 icon"
+     height="110" width="110" />
 
 # Other Topics
 
 Web development is a broad enough topic to host multiple workshops on. While we've done our best to compile a lot of information into our workshop, we tried to keep it manageable and easy to follow. Unfortunately, this means leaving out
 topics that we would've liked to incorporate. Although we won't be looking at these topics today, we've included relevant links to them for those interested.
 
-APACHE WEB SERVERS
-LOCAL HOST
-NODE JS
-
-
-<img src="https://cdn2.macworld.co.uk/cmsdata/features/3597812/how-to-learn-swift-4_thumb800.jpg"
-     alt="Swift icon"
-     height="70" width="140" />
-
-<img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png"
-     alt="Firebase icon"
-     height="70" width="140" />
+<LIST TOPICS AND RESOURCES HERE>
+Apache Server
+Node.js/back-end
+Localhost
+??
 
 
 # Sections
@@ -89,7 +90,7 @@ Section 3<br />
 
 
 
-<a href="Frameworks.md">Getting Started with ReactJS</a> <br />
+<a href="README.md">Getting Started with ReactJS</a> <br />
 Section 1<br />
 Section 2<br />
 Section 3<br />
